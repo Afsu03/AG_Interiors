@@ -1,0 +1,10 @@
+GitHub Pull Request Practice
+
+This file is used to practice:
+- Creating branches
+- Making changes
+- Opening pull requests
+- Reviewing changes
+- Merging pull requests
+
+Learning GitHub one contribution at a time! 🚀
