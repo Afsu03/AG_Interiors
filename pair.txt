@@ -4,7 +4,6 @@ This file is used to practice:
 - Creating branches
 - Making changes
 - Opening pull requests
-- Reviewing changes
-- Merging pull requests
+- Changes reviewd
 
 Learning GitHub one contribution at a time! 🚀
